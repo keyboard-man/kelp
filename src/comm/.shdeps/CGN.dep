@@ -1,0 +1,5 @@
+CGN.o: CGN.cpp CGN.h relation.h
+
+CGN.h:
+
+relation.h:

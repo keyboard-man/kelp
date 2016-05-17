@@ -1,0 +1,17 @@
+collector.o: collector.cpp collector.h \
+ /home/vimer/Kelp/src/comm/conf_loader.h \
+ /home/vimer/Kelp/src/comm/config_data.h \
+ /home/vimer/Kelp/src/comm/config_data.h modules_loader.h \
+ /home/vimer/Kelp/src/comm/module_info.h
+
+collector.h:
+
+/home/vimer/Kelp/src/comm/conf_loader.h:
+
+/home/vimer/Kelp/src/comm/config_data.h:
+
+/home/vimer/Kelp/src/comm/config_data.h:
+
+modules_loader.h:
+
+/home/vimer/Kelp/src/comm/module_info.h:

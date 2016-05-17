@@ -1,0 +1,16 @@
+rrd_operator.o: rrd_operator.cpp /home/vimer/Kelp/include/rrd.h \
+ /home/vimer/Kelp/include/rrd_tool.h /home/vimer/Kelp/include/rrd.h \
+ /home/vimer/Kelp/include/rrd_getopt.h \
+ /home/vimer/Kelp/include/rrd_format.h rrd_operator.h
+
+/home/vimer/Kelp/include/rrd.h:
+
+/home/vimer/Kelp/include/rrd_tool.h:
+
+/home/vimer/Kelp/include/rrd.h:
+
+/home/vimer/Kelp/include/rrd_getopt.h:
+
+/home/vimer/Kelp/include/rrd_format.h:
+
+rrd_operator.h:

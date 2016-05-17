@@ -1,0 +1,6 @@
+cluster_polymer.o: cluster_polymer.cpp cluster_polymer.h \
+ /home/vimer/Kelp/src/comm/comm_data.h
+
+cluster_polymer.h:
+
+/home/vimer/Kelp/src/comm/comm_data.h:

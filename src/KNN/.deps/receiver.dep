@@ -1,0 +1,24 @@
+receiver.o: receiver.cpp receiver.h \
+ /home/vimer/Kelp/src/comm/base_communicator.h \
+ /home/vimer/Kelp/src/comm/conf_loader.h \
+ /home/vimer/Kelp/src/comm/config_data.h /home/vimer/Kelp/src/comm/udp.h \
+ /home/vimer/Kelp/src/comm/tcp.h /home/vimer/Kelp/src/comm/config_data.h \
+ cluster_polymer.h /home/vimer/Kelp/src/comm/comm_data.h
+
+receiver.h:
+
+/home/vimer/Kelp/src/comm/base_communicator.h:
+
+/home/vimer/Kelp/src/comm/conf_loader.h:
+
+/home/vimer/Kelp/src/comm/config_data.h:
+
+/home/vimer/Kelp/src/comm/udp.h:
+
+/home/vimer/Kelp/src/comm/tcp.h:
+
+/home/vimer/Kelp/src/comm/config_data.h:
+
+cluster_polymer.h:
+
+/home/vimer/Kelp/src/comm/comm_data.h:

@@ -1,0 +1,41 @@
+knn.o: knn.cpp knn.h knn_poller.h collector.h \
+ /home/vimer/Kelp/src/comm/conf_loader.h \
+ /home/vimer/Kelp/src/comm/config_data.h \
+ /home/vimer/Kelp/src/comm/config_data.h modules_loader.h \
+ /home/vimer/Kelp/src/comm/module_info.h sender.h \
+ /home/vimer/Kelp/src/comm/base_communicator.h \
+ /home/vimer/Kelp/src/comm/conf_loader.h /home/vimer/Kelp/src/comm/udp.h \
+ receiver.h /home/vimer/Kelp/src/comm/tcp.h cluster_polymer.h \
+ /home/vimer/Kelp/src/comm/comm_data.h
+
+knn.h:
+
+knn_poller.h:
+
+collector.h:
+
+/home/vimer/Kelp/src/comm/conf_loader.h:
+
+/home/vimer/Kelp/src/comm/config_data.h:
+
+/home/vimer/Kelp/src/comm/config_data.h:
+
+modules_loader.h:
+
+/home/vimer/Kelp/src/comm/module_info.h:
+
+sender.h:
+
+/home/vimer/Kelp/src/comm/base_communicator.h:
+
+/home/vimer/Kelp/src/comm/conf_loader.h:
+
+/home/vimer/Kelp/src/comm/udp.h:
+
+receiver.h:
+
+/home/vimer/Kelp/src/comm/tcp.h:
+
+cluster_polymer.h:
+
+/home/vimer/Kelp/src/comm/comm_data.h:

@@ -1,0 +1,11 @@
+#########################################################################
+# File Name: kmk.sh
+# Author: He Jieting
+# mail: rambo@mail.ustc.edu.cn
+# Created Time: 2015年03月16日 星期一 16时28分49秒
+#########################################################################
+#!/bin/bash
+S_PATH=$HOME/Kelp/src/
+echo $S_PATH
+
+cd $S_PATH/comm && make && cd $S_PATH/KNN/ && make && cd $S_PATH/KCN/ && make && cd $S_PATH/KSN/ && make && sudo ldconfig && echo "done!"

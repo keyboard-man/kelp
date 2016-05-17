@@ -1,0 +1,9 @@
+modules_loader.o: modules_loader.cpp modules_loader.h \
+ /home/vimer/Kelp/src/comm/config_data.h \
+ /home/vimer/Kelp/src/comm/module_info.h
+
+modules_loader.h:
+
+/home/vimer/Kelp/src/comm/config_data.h:
+
+/home/vimer/Kelp/src/comm/module_info.h:

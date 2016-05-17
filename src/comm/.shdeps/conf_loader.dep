@@ -1,0 +1,5 @@
+conf_loader.o: conf_loader.cpp conf_loader.h config_data.h
+
+conf_loader.h:
+
+config_data.h:

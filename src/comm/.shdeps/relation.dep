@@ -1,0 +1,3 @@
+relation.o: relation.cpp relation.h
+
+relation.h:
